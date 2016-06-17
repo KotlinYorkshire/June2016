@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "Aruba",
+    "area": 180,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Oranjestad",
+    "isoCode": "ABW"
+  },
+  {
+    "name": "Afghanistan",
+    "area": 652230,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Southern Asia",
+    "capital": "Kabul",
+    "isoCode": "AFG"
+  },
+  {
+    "name": "Angola",
+    "area": 1246700,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Luanda",
+    "isoCode": "AGO"
+  },
+  {
+    "name": "Anguilla",
+    "area": 91,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "The Valley",
+    "isoCode": "AIA"
+  },
+  {
+    "name": "\u00c5land Islands",
+    "area": 1580,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Mariehamn",
+    "isoCode": "ALA"
+  },
+  {
+    "name": "Albania",
+    "area": 28748,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Tirana",
+    "isoCode": "ALB"
+  },
+  {
+    "name": "Andorra",
+    "area": 468,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Southern Europe",
+    "capital": "Andorra la Vella",
+    "isoCode": "AND"
+  },
+  {
+    "name": "United Arab Emirates",
+    "area": 83600,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Abu Dhabi",
+    "isoCode": "ARE"
+  },
+  {
+    "name": "Argentina",
+    "area": 2780400,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Buenos Aires",
+    "isoCode": "ARG"
+  },
+  {
+    "name": "Armenia",
+    "area": 29743,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Western Asia",
+    "capital": "Yerevan",
+    "isoCode": "ARM"
+  },
+  {
+    "name": "American Samoa",
+    "area": 199,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Pago Pago",
+    "isoCode": "ASM"
+  },
+  {
+    "name": "Antarctica",
+    "area": 14000000,
+    "region": "",
+    "landlocked": false,
+    "subregion": "",
+    "capital": "",
+    "isoCode": "ATA"
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "area": 7747,
+    "region": "",
+    "landlocked": false,
+    "subregion": "",
+    "capital": "Port-aux-Fran\u00e7ais",
+    "isoCode": "ATF"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "area": 442,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Saint John's",
+    "isoCode": "ATG"
+  },
+  {
+    "name": "Australia",
+    "area": 7692024,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Australia and New Zealand",
+    "capital": "Canberra",
+    "isoCode": "AUS"
+  },
+  {
+    "name": "Austria",
+    "area": 83871,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Western Europe",
+    "capital": "Vienna",
+    "isoCode": "AUT"
+  },
+  {
+    "name": "Azerbaijan",
+    "area": 86600,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Western Asia",
+    "capital": "Baku",
+    "isoCode": "AZE"
+  },
+  {
+    "name": "Burundi",
+    "area": 27834,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Bujumbura",
+    "isoCode": "BDI"
+  },
+  {
+    "name": "Belgium",
+    "area": 30528,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Western Europe",
+    "capital": "Brussels",
+    "isoCode": "BEL"
+  },
+  {
+    "name": "Benin",
+    "area": 112622,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Porto-Novo",
+    "isoCode": "BEN"
+  },
+  {
+    "name": "Burkina Faso",
+    "area": 272967,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Western Africa",
+    "capital": "Ouagadougou",
+    "isoCode": "BFA"
+  },
+  {
+    "name": "Bangladesh",
+    "area": 147570,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "Dhaka",
+    "isoCode": "BGD"
+  },
+  {
+    "name": "Bulgaria",
+    "area": 110879,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Sofia",
+    "isoCode": "BGR"
+  },
+  {
+    "name": "Bahrain",
+    "area": 765,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Manama",
+    "isoCode": "BHR"
+  },
+  {
+    "name": "Bahamas",
+    "area": 13943,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Nassau",
+    "isoCode": "BHS"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "area": 51209,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Sarajevo",
+    "isoCode": "BIH"
+  },
+  {
+    "name": "Saint Barth\u00e9lemy",
+    "area": 21,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Gustavia",
+    "isoCode": "BLM"
+  },
+  {
+    "name": "Belarus",
+    "area": 207600,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Minsk",
+    "isoCode": "BLR"
+  },
+  {
+    "name": "Belize",
+    "area": 22966,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Belmopan",
+    "isoCode": "BLZ"
+  },
+  {
+    "name": "Bermuda",
+    "area": 54,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "Hamilton",
+    "isoCode": "BMU"
+  },
+  {
+    "name": "Bolivia",
+    "area": 1098581,
+    "region": "Americas",
+    "landlocked": true,
+    "subregion": "South America",
+    "capital": "Sucre",
+    "isoCode": "BOL"
+  },
+  {
+    "name": "Brazil",
+    "area": 8515767,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Bras\u00edlia",
+    "isoCode": "BRA"
+  },
+  {
+    "name": "Barbados",
+    "area": 430,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Bridgetown",
+    "isoCode": "BRB"
+  },
+  {
+    "name": "Brunei",
+    "area": 5765,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Bandar Seri Begawan",
+    "isoCode": "BRN"
+  },
+  {
+    "name": "Bhutan",
+    "area": 38394,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Southern Asia",
+    "capital": "Thimphu",
+    "isoCode": "BTN"
+  },
+  {
+    "name": "Bouvet Island",
+    "area": 49,
+    "region": "",
+    "landlocked": false,
+    "subregion": "",
+    "capital": "",
+    "isoCode": "BVT"
+  },
+  {
+    "name": "Botswana",
+    "area": 582000,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Southern Africa",
+    "capital": "Gaborone",
+    "isoCode": "BWA"
+  },
+  {
+    "name": "Central African Republic",
+    "area": 622984,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Middle Africa",
+    "capital": "Bangui",
+    "isoCode": "CAF"
+  },
+  {
+    "name": "Canada",
+    "area": 9984670,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "Ottawa",
+    "isoCode": "CAN"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "area": 14,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Australia and New Zealand",
+    "capital": "West Island",
+    "isoCode": "CCK"
+  },
+  {
+    "name": "Switzerland",
+    "area": 41284,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Western Europe",
+    "capital": "Bern",
+    "isoCode": "CHE"
+  },
+  {
+    "name": "Chile",
+    "area": 756102,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Santiago",
+    "isoCode": "CHL"
+  },
+  {
+    "name": "China",
+    "area": 9706961,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "Beijing",
+    "isoCode": "CHN"
+  },
+  {
+    "name": "Ivory Coast",
+    "area": 322463,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Yamoussoukro",
+    "isoCode": "CIV"
+  },
+  {
+    "name": "Cameroon",
+    "area": 475442,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Yaound\u00e9",
+    "isoCode": "CMR"
+  },
+  {
+    "name": "DR Congo",
+    "area": 2344858,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Kinshasa",
+    "isoCode": "COD"
+  },
+  {
+    "name": "Republic of the Congo",
+    "area": 342000,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Brazzaville",
+    "isoCode": "COG"
+  },
+  {
+    "name": "Cook Islands",
+    "area": 236,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Avarua",
+    "isoCode": "COK"
+  },
+  {
+    "name": "Colombia",
+    "area": 1141748,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Bogot\u00e1",
+    "isoCode": "COL"
+  },
+  {
+    "name": "Comoros",
+    "area": 1862,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Moroni",
+    "isoCode": "COM"
+  },
+  {
+    "name": "Cape Verde",
+    "area": 4033,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Praia",
+    "isoCode": "CPV"
+  },
+  {
+    "name": "Costa Rica",
+    "area": 51100,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "San Jos\u00e9",
+    "isoCode": "CRI"
+  },
+  {
+    "name": "Cuba",
+    "area": 109884,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Havana",
+    "isoCode": "CUB"
+  },
+  {
+    "name": "Cura\u00e7ao",
+    "area": 444,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Willemstad",
+    "isoCode": "CUW"
+  },
+  {
+    "name": "Christmas Island",
+    "area": 135,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Australia and New Zealand",
+    "capital": "Flying Fish Cove",
+    "isoCode": "CXR"
+  },
+  {
+    "name": "Cayman Islands",
+    "area": 264,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "George Town",
+    "isoCode": "CYM"
+  },
+  {
+    "name": "Cyprus",
+    "area": 9251,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Nicosia",
+    "isoCode": "CYP"
+  },
+  {
+    "name": "Czech Republic",
+    "area": 78865,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Prague",
+    "isoCode": "CZE"
+  },
+  {
+    "name": "Germany",
+    "area": 357114,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Western Europe",
+    "capital": "Berlin",
+    "isoCode": "DEU"
+  },
+  {
+    "name": "Djibouti",
+    "area": 23200,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Djibouti",
+    "isoCode": "DJI"
+  },
+  {
+    "name": "Dominica",
+    "area": 751,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Roseau",
+    "isoCode": "DMA"
+  },
+  {
+    "name": "Denmark",
+    "area": 43094,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Copenhagen",
+    "isoCode": "DNK"
+  },
+  {
+    "name": "Dominican Republic",
+    "area": 48671,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Santo Domingo",
+    "isoCode": "DOM"
+  },
+  {
+    "name": "Algeria",
+    "area": 2381741,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Algiers",
+    "isoCode": "DZA"
+  },
+  {
+    "name": "Ecuador",
+    "area": 276841,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Quito",
+    "isoCode": "ECU"
+  },
+  {
+    "name": "Egypt",
+    "area": 1002450,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Cairo",
+    "isoCode": "EGY"
+  },
+  {
+    "name": "Eritrea",
+    "area": 117600,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Asmara",
+    "isoCode": "ERI"
+  },
+  {
+    "name": "Western Sahara",
+    "area": 266000,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "El Aai\u00fan",
+    "isoCode": "ESH"
+  },
+  {
+    "name": "Spain",
+    "area": 505992,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Madrid",
+    "isoCode": "ESP"
+  },
+  {
+    "name": "Estonia",
+    "area": 45227,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Tallinn",
+    "isoCode": "EST"
+  },
+  {
+    "name": "Ethiopia",
+    "area": 1104300,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Addis Ababa",
+    "isoCode": "ETH"
+  },
+  {
+    "name": "Finland",
+    "area": 338424,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Helsinki",
+    "isoCode": "FIN"
+  },
+  {
+    "name": "Fiji",
+    "area": 18272,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Melanesia",
+    "capital": "Suva",
+    "isoCode": "FJI"
+  },
+  {
+    "name": "Falkland Islands",
+    "area": 12173,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Stanley",
+    "isoCode": "FLK"
+  },
+  {
+    "name": "France",
+    "area": 551695,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Western Europe",
+    "capital": "Paris",
+    "isoCode": "FRA"
+  },
+  {
+    "name": "Faroe Islands",
+    "area": 1393,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "T\u00f3rshavn",
+    "isoCode": "FRO"
+  },
+  {
+    "name": "Micronesia",
+    "area": 702,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Palikir",
+    "isoCode": "FSM"
+  },
+  {
+    "name": "Gabon",
+    "area": 267668,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Libreville",
+    "isoCode": "GAB"
+  },
+  {
+    "name": "United Kingdom",
+    "area": 242900,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "London",
+    "isoCode": "GBR"
+  },
+  {
+    "name": "Georgia",
+    "area": 69700,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Tbilisi",
+    "isoCode": "GEO"
+  },
+  {
+    "name": "Guernsey",
+    "area": 78,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "St. Peter Port",
+    "isoCode": "GGY"
+  },
+  {
+    "name": "Ghana",
+    "area": 238533,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Accra",
+    "isoCode": "GHA"
+  },
+  {
+    "name": "Gibraltar",
+    "area": 6,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Gibraltar",
+    "isoCode": "GIB"
+  },
+  {
+    "name": "Guinea",
+    "area": 245857,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Conakry",
+    "isoCode": "GIN"
+  },
+  {
+    "name": "Guadeloupe",
+    "area": 1628,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Basse-Terre",
+    "isoCode": "GLP"
+  },
+  {
+    "name": "Gambia",
+    "area": 10689,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Banjul",
+    "isoCode": "GMB"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "area": 36125,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Bissau",
+    "isoCode": "GNB"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "area": 28051,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "Malabo",
+    "isoCode": "GNQ"
+  },
+  {
+    "name": "Greece",
+    "area": 131990,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Athens",
+    "isoCode": "GRC"
+  },
+  {
+    "name": "Grenada",
+    "area": 344,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "St. George's",
+    "isoCode": "GRD"
+  },
+  {
+    "name": "Greenland",
+    "area": 2166086,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "Nuuk",
+    "isoCode": "GRL"
+  },
+  {
+    "name": "Guatemala",
+    "area": 108889,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Guatemala City",
+    "isoCode": "GTM"
+  },
+  {
+    "name": "French Guiana",
+    "area": 83534,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Cayenne",
+    "isoCode": "GUF"
+  },
+  {
+    "name": "Guam",
+    "area": 549,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Hag\u00e5t\u00f1a",
+    "isoCode": "GUM"
+  },
+  {
+    "name": "Guyana",
+    "area": 214969,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Georgetown",
+    "isoCode": "GUY"
+  },
+  {
+    "name": "Hong Kong",
+    "area": 1104,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "City of Victoria",
+    "isoCode": "HKG"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "area": 412,
+    "region": "",
+    "landlocked": false,
+    "subregion": "",
+    "capital": "",
+    "isoCode": "HMD"
+  },
+  {
+    "name": "Honduras",
+    "area": 112492,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Tegucigalpa",
+    "isoCode": "HND"
+  },
+  {
+    "name": "Croatia",
+    "area": 56594,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Zagreb",
+    "isoCode": "HRV"
+  },
+  {
+    "name": "Haiti",
+    "area": 27750,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Port-au-Prince",
+    "isoCode": "HTI"
+  },
+  {
+    "name": "Hungary",
+    "area": 93028,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Budapest",
+    "isoCode": "HUN"
+  },
+  {
+    "name": "Indonesia",
+    "area": 1904569,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Jakarta",
+    "isoCode": "IDN"
+  },
+  {
+    "name": "Isle of Man",
+    "area": 572,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Douglas",
+    "isoCode": "IMN"
+  },
+  {
+    "name": "India",
+    "area": 3287590,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "New Delhi",
+    "isoCode": "IND"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "area": 60,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Diego Garcia",
+    "isoCode": "IOT"
+  },
+  {
+    "name": "Ireland",
+    "area": 70273,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Dublin",
+    "isoCode": "IRL"
+  },
+  {
+    "name": "Iran",
+    "area": 1648195,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "Tehran",
+    "isoCode": "IRN"
+  },
+  {
+    "name": "Iraq",
+    "area": 438317,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Baghdad",
+    "isoCode": "IRQ"
+  },
+  {
+    "name": "Iceland",
+    "area": 103000,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Reykjavik",
+    "isoCode": "ISL"
+  },
+  {
+    "name": "Israel",
+    "area": 20770,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Jerusalem",
+    "isoCode": "ISR"
+  },
+  {
+    "name": "Italy",
+    "area": 301336,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Rome",
+    "isoCode": "ITA"
+  },
+  {
+    "name": "Jamaica",
+    "area": 10991,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Kingston",
+    "isoCode": "JAM"
+  },
+  {
+    "name": "Jersey",
+    "area": 116,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Saint Helier",
+    "isoCode": "JEY"
+  },
+  {
+    "name": "Jordan",
+    "area": 89342,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Amman",
+    "isoCode": "JOR"
+  },
+  {
+    "name": "Japan",
+    "area": 377930,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "Tokyo",
+    "isoCode": "JPN"
+  },
+  {
+    "name": "Kazakhstan",
+    "area": 2724900,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Central Asia",
+    "capital": "Astana",
+    "isoCode": "KAZ"
+  },
+  {
+    "name": "Kenya",
+    "area": 580367,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Nairobi",
+    "isoCode": "KEN"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "area": 199951,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Central Asia",
+    "capital": "Bishkek",
+    "isoCode": "KGZ"
+  },
+  {
+    "name": "Cambodia",
+    "area": 181035,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Phnom Penh",
+    "isoCode": "KHM"
+  },
+  {
+    "name": "Kiribati",
+    "area": 811,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "South Tarawa",
+    "isoCode": "KIR"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "area": 261,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Basseterre",
+    "isoCode": "KNA"
+  },
+  {
+    "name": "South Korea",
+    "area": 100210,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "Seoul",
+    "isoCode": "KOR"
+  },
+  {
+    "name": "Kosovo",
+    "area": 10908,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Pristina",
+    "isoCode": "UNK"
+  },
+  {
+    "name": "Kuwait",
+    "area": 17818,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Kuwait City",
+    "isoCode": "KWT"
+  },
+  {
+    "name": "Laos",
+    "area": 236800,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "South-Eastern Asia",
+    "capital": "Vientiane",
+    "isoCode": "LAO"
+  },
+  {
+    "name": "Lebanon",
+    "area": 10452,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Beirut",
+    "isoCode": "LBN"
+  },
+  {
+    "name": "Liberia",
+    "area": 111369,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Monrovia",
+    "isoCode": "LBR"
+  },
+  {
+    "name": "Libya",
+    "area": 1759540,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Tripoli",
+    "isoCode": "LBY"
+  },
+  {
+    "name": "Saint Lucia",
+    "area": 616,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Castries",
+    "isoCode": "LCA"
+  },
+  {
+    "name": "Liechtenstein",
+    "area": 160,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Western Europe",
+    "capital": "Vaduz",
+    "isoCode": "LIE"
+  },
+  {
+    "name": "Sri Lanka",
+    "area": 65610,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "Colombo",
+    "isoCode": "LKA"
+  },
+  {
+    "name": "Lesotho",
+    "area": 30355,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Southern Africa",
+    "capital": "Maseru",
+    "isoCode": "LSO"
+  },
+  {
+    "name": "Lithuania",
+    "area": 65300,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Vilnius",
+    "isoCode": "LTU"
+  },
+  {
+    "name": "Luxembourg",
+    "area": 2586,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Western Europe",
+    "capital": "Luxembourg",
+    "isoCode": "LUX"
+  },
+  {
+    "name": "Latvia",
+    "area": 64559,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Riga",
+    "isoCode": "LVA"
+  },
+  {
+    "name": "Macau",
+    "area": 30,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "",
+    "isoCode": "MAC"
+  },
+  {
+    "name": "Saint Martin",
+    "area": 53,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Marigot",
+    "isoCode": "MAF"
+  },
+  {
+    "name": "Morocco",
+    "area": 446550,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Rabat",
+    "isoCode": "MAR"
+  },
+  {
+    "name": "Monaco",
+    "area": 2,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Western Europe",
+    "capital": "Monaco",
+    "isoCode": "MCO"
+  },
+  {
+    "name": "Moldova",
+    "area": 33846,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Chi\u0219in\u0103u",
+    "isoCode": "MDA"
+  },
+  {
+    "name": "Madagascar",
+    "area": 587041,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Antananarivo",
+    "isoCode": "MDG"
+  },
+  {
+    "name": "Maldives",
+    "area": 300,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "Mal\u00e9",
+    "isoCode": "MDV"
+  },
+  {
+    "name": "Mexico",
+    "area": 1964375,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Mexico City",
+    "isoCode": "MEX"
+  },
+  {
+    "name": "Marshall Islands",
+    "area": 181,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Majuro",
+    "isoCode": "MHL"
+  },
+  {
+    "name": "Macedonia",
+    "area": 25713,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Southern Europe",
+    "capital": "Skopje",
+    "isoCode": "MKD"
+  },
+  {
+    "name": "Mali",
+    "area": 1240192,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Western Africa",
+    "capital": "Bamako",
+    "isoCode": "MLI"
+  },
+  {
+    "name": "Malta",
+    "area": 316,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Valletta",
+    "isoCode": "MLT"
+  },
+  {
+    "name": "Myanmar",
+    "area": 676578,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Naypyidaw",
+    "isoCode": "MMR"
+  },
+  {
+    "name": "Montenegro",
+    "area": 13812,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Podgorica",
+    "isoCode": "MNE"
+  },
+  {
+    "name": "Mongolia",
+    "area": 1564110,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Eastern Asia",
+    "capital": "Ulan Bator",
+    "isoCode": "MNG"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "area": 464,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Saipan",
+    "isoCode": "MNP"
+  },
+  {
+    "name": "Mozambique",
+    "area": 801590,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Maputo",
+    "isoCode": "MOZ"
+  },
+  {
+    "name": "Mauritania",
+    "area": 1030700,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Nouakchott",
+    "isoCode": "MRT"
+  },
+  {
+    "name": "Montserrat",
+    "area": 102,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Plymouth",
+    "isoCode": "MSR"
+  },
+  {
+    "name": "Martinique",
+    "area": 1128,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Fort-de-France",
+    "isoCode": "MTQ"
+  },
+  {
+    "name": "Mauritius",
+    "area": 2040,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Port Louis",
+    "isoCode": "MUS"
+  },
+  {
+    "name": "Malawi",
+    "area": 118484,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Lilongwe",
+    "isoCode": "MWI"
+  },
+  {
+    "name": "Malaysia",
+    "area": 330803,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Kuala Lumpur",
+    "isoCode": "MYS"
+  },
+  {
+    "name": "Mayotte",
+    "area": 374,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Mamoudzou",
+    "isoCode": "MYT"
+  },
+  {
+    "name": "Namibia",
+    "area": 825615,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Southern Africa",
+    "capital": "Windhoek",
+    "isoCode": "NAM"
+  },
+  {
+    "name": "New Caledonia",
+    "area": 18575,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Melanesia",
+    "capital": "Noum\u00e9a",
+    "isoCode": "NCL"
+  },
+  {
+    "name": "Niger",
+    "area": 1267000,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Western Africa",
+    "capital": "Niamey",
+    "isoCode": "NER"
+  },
+  {
+    "name": "Norfolk Island",
+    "area": 36,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Australia and New Zealand",
+    "capital": "Kingston",
+    "isoCode": "NFK"
+  },
+  {
+    "name": "Nigeria",
+    "area": 923768,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Abuja",
+    "isoCode": "NGA"
+  },
+  {
+    "name": "Nicaragua",
+    "area": 130373,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Managua",
+    "isoCode": "NIC"
+  },
+  {
+    "name": "Niue",
+    "area": 260,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Alofi",
+    "isoCode": "NIU"
+  },
+  {
+    "name": "Netherlands",
+    "area": 41850,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Western Europe",
+    "capital": "Amsterdam",
+    "isoCode": "NLD"
+  },
+  {
+    "name": "Norway",
+    "area": 323802,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Oslo",
+    "isoCode": "NOR"
+  },
+  {
+    "name": "Nepal",
+    "area": 147181,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Southern Asia",
+    "capital": "Kathmandu",
+    "isoCode": "NPL"
+  },
+  {
+    "name": "Nauru",
+    "area": 21,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Yaren",
+    "isoCode": "NRU"
+  },
+  {
+    "name": "New Zealand",
+    "area": 270467,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Australia and New Zealand",
+    "capital": "Wellington",
+    "isoCode": "NZL"
+  },
+  {
+    "name": "Oman",
+    "area": 309500,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Muscat",
+    "isoCode": "OMN"
+  },
+  {
+    "name": "Pakistan",
+    "area": 881912,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Southern Asia",
+    "capital": "Islamabad",
+    "isoCode": "PAK"
+  },
+  {
+    "name": "Panama",
+    "area": 75417,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "Panama City",
+    "isoCode": "PAN"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "area": 47,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Adamstown",
+    "isoCode": "PCN"
+  },
+  {
+    "name": "Peru",
+    "area": 1285216,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Lima",
+    "isoCode": "PER"
+  },
+  {
+    "name": "Philippines",
+    "area": 342353,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Manila",
+    "isoCode": "PHL"
+  },
+  {
+    "name": "Palau",
+    "area": 459,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Micronesia",
+    "capital": "Ngerulmud",
+    "isoCode": "PLW"
+  },
+  {
+    "name": "Papua New Guinea",
+    "area": 462840,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Melanesia",
+    "capital": "Port Moresby",
+    "isoCode": "PNG"
+  },
+  {
+    "name": "Poland",
+    "area": 312679,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Warsaw",
+    "isoCode": "POL"
+  },
+  {
+    "name": "Puerto Rico",
+    "area": 8870,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "San Juan",
+    "isoCode": "PRI"
+  },
+  {
+    "name": "North Korea",
+    "area": 120538,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "Pyongyang",
+    "isoCode": "PRK"
+  },
+  {
+    "name": "Portugal",
+    "area": 92090,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Lisbon",
+    "isoCode": "PRT"
+  },
+  {
+    "name": "Paraguay",
+    "area": 406752,
+    "region": "Americas",
+    "landlocked": true,
+    "subregion": "South America",
+    "capital": "Asunci\u00f3n",
+    "isoCode": "PRY"
+  },
+  {
+    "name": "Palestine",
+    "area": 6220,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Ramallah",
+    "isoCode": "PSE"
+  },
+  {
+    "name": "French Polynesia",
+    "area": 4167,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Papeet\u0113",
+    "isoCode": "PYF"
+  },
+  {
+    "name": "Qatar",
+    "area": 11586,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Doha",
+    "isoCode": "QAT"
+  },
+  {
+    "name": "R\u00e9union",
+    "area": 2511,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Saint-Denis",
+    "isoCode": "REU"
+  },
+  {
+    "name": "Romania",
+    "area": 238391,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Bucharest",
+    "isoCode": "ROU"
+  },
+  {
+    "name": "Russia",
+    "area": 17098242,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Moscow",
+    "isoCode": "RUS"
+  },
+  {
+    "name": "Rwanda",
+    "area": 26338,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Kigali",
+    "isoCode": "RWA"
+  },
+  {
+    "name": "Saudi Arabia",
+    "area": 2149690,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Riyadh",
+    "isoCode": "SAU"
+  },
+  {
+    "name": "Sudan",
+    "area": 1886068,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Khartoum",
+    "isoCode": "SDN"
+  },
+  {
+    "name": "Senegal",
+    "area": 196722,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Dakar",
+    "isoCode": "SEN"
+  },
+  {
+    "name": "Singapore",
+    "area": 710,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Singapore",
+    "isoCode": "SGP"
+  },
+  {
+    "name": "South Georgia",
+    "area": 3903,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "King Edward Point",
+    "isoCode": "SGS"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "area": -1,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Longyearbyen",
+    "isoCode": "SJM"
+  },
+  {
+    "name": "Solomon Islands",
+    "area": 28896,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Melanesia",
+    "capital": "Honiara",
+    "isoCode": "SLB"
+  },
+  {
+    "name": "Sierra Leone",
+    "area": 71740,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Freetown",
+    "isoCode": "SLE"
+  },
+  {
+    "name": "El Salvador",
+    "area": 21041,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Central America",
+    "capital": "San Salvador",
+    "isoCode": "SLV"
+  },
+  {
+    "name": "San Marino",
+    "area": 61,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Southern Europe",
+    "capital": "City of San Marino",
+    "isoCode": "SMR"
+  },
+  {
+    "name": "Somalia",
+    "area": 637657,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Mogadishu",
+    "isoCode": "SOM"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "area": 242,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "Saint-Pierre",
+    "isoCode": "SPM"
+  },
+  {
+    "name": "Serbia",
+    "area": 88361,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Southern Europe",
+    "capital": "Belgrade",
+    "isoCode": "SRB"
+  },
+  {
+    "name": "South Sudan",
+    "area": 619745,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Middle Africa",
+    "capital": "Juba",
+    "isoCode": "SSD"
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "area": 964,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Middle Africa",
+    "capital": "S\u00e3o Tom\u00e9",
+    "isoCode": "STP"
+  },
+  {
+    "name": "Suriname",
+    "area": 163820,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Paramaribo",
+    "isoCode": "SUR"
+  },
+  {
+    "name": "Slovakia",
+    "area": 49037,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Eastern Europe",
+    "capital": "Bratislava",
+    "isoCode": "SVK"
+  },
+  {
+    "name": "Slovenia",
+    "area": 20273,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Southern Europe",
+    "capital": "Ljubljana",
+    "isoCode": "SVN"
+  },
+  {
+    "name": "Sweden",
+    "area": 450295,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Northern Europe",
+    "capital": "Stockholm",
+    "isoCode": "SWE"
+  },
+  {
+    "name": "Swaziland",
+    "area": 17364,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Southern Africa",
+    "capital": "Lobamba",
+    "isoCode": "SWZ"
+  },
+  {
+    "name": "Sint Maarten",
+    "area": 34,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Philipsburg",
+    "isoCode": "SXM"
+  },
+  {
+    "name": "Seychelles",
+    "area": 452,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Victoria",
+    "isoCode": "SYC"
+  },
+  {
+    "name": "Syria",
+    "area": 185180,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Damascus",
+    "isoCode": "SYR"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "area": 948,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Cockburn Town",
+    "isoCode": "TCA"
+  },
+  {
+    "name": "Chad",
+    "area": 1284000,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Middle Africa",
+    "capital": "N'Djamena",
+    "isoCode": "TCD"
+  },
+  {
+    "name": "Togo",
+    "area": 56785,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Western Africa",
+    "capital": "Lom\u00e9",
+    "isoCode": "TGO"
+  },
+  {
+    "name": "Thailand",
+    "area": 513120,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Bangkok",
+    "isoCode": "THA"
+  },
+  {
+    "name": "Tajikistan",
+    "area": 143100,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Central Asia",
+    "capital": "Dushanbe",
+    "isoCode": "TJK"
+  },
+  {
+    "name": "Tokelau",
+    "area": 12,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Fakaofo",
+    "isoCode": "TKL"
+  },
+  {
+    "name": "Turkmenistan",
+    "area": 488100,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Central Asia",
+    "capital": "Ashgabat",
+    "isoCode": "TKM"
+  },
+  {
+    "name": "Timor-Leste",
+    "area": 14874,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Dili",
+    "isoCode": "TLS"
+  },
+  {
+    "name": "Tonga",
+    "area": 747,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Nuku'alofa",
+    "isoCode": "TON"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "area": 5130,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Port of Spain",
+    "isoCode": "TTO"
+  },
+  {
+    "name": "Tunisia",
+    "area": 163610,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Northern Africa",
+    "capital": "Tunis",
+    "isoCode": "TUN"
+  },
+  {
+    "name": "Turkey",
+    "area": 783562,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Ankara",
+    "isoCode": "TUR"
+  },
+  {
+    "name": "Tuvalu",
+    "area": 26,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Funafuti",
+    "isoCode": "TUV"
+  },
+  {
+    "name": "Taiwan",
+    "area": 36193,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Eastern Asia",
+    "capital": "Taipei",
+    "isoCode": "TWN"
+  },
+  {
+    "name": "Tanzania",
+    "area": 945087,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Eastern Africa",
+    "capital": "Dodoma",
+    "isoCode": "TZA"
+  },
+  {
+    "name": "Uganda",
+    "area": 241550,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Kampala",
+    "isoCode": "UGA"
+  },
+  {
+    "name": "Ukraine",
+    "area": 603500,
+    "region": "Europe",
+    "landlocked": false,
+    "subregion": "Eastern Europe",
+    "capital": "Kiev",
+    "isoCode": "UKR"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "area": 34,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "",
+    "isoCode": "UMI"
+  },
+  {
+    "name": "Uruguay",
+    "area": 181034,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Montevideo",
+    "isoCode": "URY"
+  },
+  {
+    "name": "United States",
+    "area": 9372610,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Northern America",
+    "capital": "Washington D.C.",
+    "isoCode": "USA"
+  },
+  {
+    "name": "Uzbekistan",
+    "area": 447400,
+    "region": "Asia",
+    "landlocked": true,
+    "subregion": "Central Asia",
+    "capital": "Tashkent",
+    "isoCode": "UZB"
+  },
+  {
+    "name": "Vatican City",
+    "area": 1,
+    "region": "Europe",
+    "landlocked": true,
+    "subregion": "Southern Europe",
+    "capital": "Vatican City",
+    "isoCode": "VAT"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "area": 389,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Kingstown",
+    "isoCode": "VCT"
+  },
+  {
+    "name": "Venezuela",
+    "area": 916445,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "South America",
+    "capital": "Caracas",
+    "isoCode": "VEN"
+  },
+  {
+    "name": "British Virgin Islands",
+    "area": 151,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Road Town",
+    "isoCode": "VGB"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "area": 347,
+    "region": "Americas",
+    "landlocked": false,
+    "subregion": "Caribbean",
+    "capital": "Charlotte Amalie",
+    "isoCode": "VIR"
+  },
+  {
+    "name": "Vietnam",
+    "area": 331212,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "South-Eastern Asia",
+    "capital": "Hanoi",
+    "isoCode": "VNM"
+  },
+  {
+    "name": "Vanuatu",
+    "area": 12189,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Melanesia",
+    "capital": "Port Vila",
+    "isoCode": "VUT"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "area": 142,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Mata-Utu",
+    "isoCode": "WLF"
+  },
+  {
+    "name": "Samoa",
+    "area": 2842,
+    "region": "Oceania",
+    "landlocked": false,
+    "subregion": "Polynesia",
+    "capital": "Apia",
+    "isoCode": "WSM"
+  },
+  {
+    "name": "Yemen",
+    "area": 527968,
+    "region": "Asia",
+    "landlocked": false,
+    "subregion": "Western Asia",
+    "capital": "Sana'a",
+    "isoCode": "YEM"
+  },
+  {
+    "name": "South Africa",
+    "area": 1221037,
+    "region": "Africa",
+    "landlocked": false,
+    "subregion": "Southern Africa",
+    "capital": "Pretoria",
+    "isoCode": "ZAF"
+  },
+  {
+    "name": "Zambia",
+    "area": 752612,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Lusaka",
+    "isoCode": "ZMB"
+  },
+  {
+    "name": "Zimbabwe",
+    "area": 390757,
+    "region": "Africa",
+    "landlocked": true,
+    "subregion": "Eastern Africa",
+    "capital": "Harare",
+    "isoCode": "ZWE"
+  }
+]
